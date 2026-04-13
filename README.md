@@ -10,14 +10,13 @@
   <img src="https://komarev.com/ghpvc/?username=Fiddlelandia&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   <br><br>
   <a href="https://www.linkedin.com/in/nicholas-gil-87b8361b9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/nicholasgil" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:nicholasgil@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://nicholasgil.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:nicholas.gil@avvaconnect.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/Fiddlelandia"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </div>
 
 ---
 
-## 👨‍💻 PERFIL PROFISSIONAL: Sobre Mim
+## 👨‍💻 PERFIL PROFISSIONAL
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=800&lines=Olá%2C+eu+sou+Nicholas+Gil!;Desenvolvedor+Full-Stack+com+expertise+em+IA;Especialista+em+engenharia+de+prompts+e+montagem+de+sistemas+cognitivos;Arquiteto+de+soluções+disruptivas+que+combinam+tecnologia+e+inovação" alt="Sobre Mim">
@@ -25,18 +24,18 @@
 
 <br>
 
-Com uma trajetória marcada pela inovação e excelência técnica, eu me destaco como um profissional versátil e estratégico, com domínio avançado do desenvolvimento **Full-Stack** e uma expertise profunda em **Inteligência Artificial**. Sou capaz de conceber e arquitetar soluções complexas, combinando front-end, back-end e sistemas de IA para criar produtos que são verdadeiramente disruptivos. <img src="https://media.giphy.com/media/3o7TKz9bX9Z9Z9Z9Z9/giphy.gif" width="30" alt="ícone de computador">
+Com profunda imersão no ecosistema de desenvolvimento, destaco-me como um profissional técnico focado em **Desenvolvimento Full-Stack** e **Inteligência Artificial Aplicada**. Projeta, desenvolve e escala sistemas complexos unindo os mundos do front-end moderno, back-end resiliente e arquiteturas de modelos cognitivos para criar soluções eficientes.
 
-Minha especialidade inclui:
+**🔬 Core de Especializações Técnicas:**
 
-- **Engenharia de Prompts Avançada**: Construção de prompts contextuais ricos, multi-camadas, com técnicas como Chain of Thought, Tree of Thought, Step-Back Prompting e Self-Consistency.
-- **Arquiteturas Híbridas de IA**: Integração de múltiplas técnicas (GOAP, Behavior Trees, Reinforcement Learning, Activation Engineering, Sistema Emocional OCC).
-- **Desenvolvimento Full-Stack**: Node.js, React, Python, PostgreSQL, com foco em segurança, escalabilidade e UX excepcional.
-- **Soluções SaaS**: Plataformas multi-tenant com controle granular de permissões e autenticação JWT robusta.
+- **Arquiteturas Híbridas de IA:** Construção de ecossistemas autônomos integrando técnicas lógicas (GOAP, Behavior Trees) com LLMs, Reinforcement Learning e Sistemas Emocionais (OCC).
+- **Advanced Prompt Engineering:** Otimização e orquestração de LLMs utilizando abordagens rigorosas (Chain of Thought, Tree of Thought, Step-Back Prompting, React, Self-Consistency).
+- **Engenharia Full-Stack:** Desenvolvimento de aplicações em Node.js, React, Python e PostgreSQL. Ênfase no desenvolvimento de microsserviços, Clean Architecture e performance estrutural.
+- **Ecossistema SaaS B2B:** Modelagem e desenvolvimento de plataformas multi-tenant (Multi-inquilino) com governança estrita de Roles (RBAC), controle granular e autenticação protegida por JWT/OAuth.
 
 ---
 
-## 📊 TELEMETRIA AO VIVO: Estatísticas
+## 📊 TELEMETRIA GITHUB
 
 <div align="center">
   <table>
@@ -54,221 +53,104 @@ Minha especialidade inclui:
   </table>
 </div>
 
-### 🏆 GitHub Profile Trophy
-
+### 🏆 Profile Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Fiddlelandia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
-### 📍 Profile Visitor Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Fiddlelandia/count.svg" alt="Número de visitantes no perfil" />
-</p>
-
 ---
 
-## 💼 PROJETOS DE DESTAQUE: Portfólio Principal
+## 💼 OPEN SOURCE & PROJETOS EM DESTAQUE
 
-### 🌟 Sistema SaaS de Controle Financeiro Multi-Empresarial
+### 🏢 [Plataforma SaaS Multi-Empresarial] ERP AvvA Connect
 
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
 </div>
 
 <br>
 
-<details style="border: 2px solid #00BFFF; border-radius: 10px; padding: 15px; margin-bottom: 20px; background: linear-gradient(135deg, #1e3c72, #2a5298); color: white;">
-  <summary style="font-size: 18px; font-weight: bold; cursor: pointer;"><strong>🚀 Plataforma SaaS Completa para Gestão Financeira</strong></summary>
+<details style="border: 1px solid #1e3c72; border-radius: 6px; padding: 15px; margin-bottom: 20px;">
+  <summary style="font-size: 16px; font-weight: bold; cursor: pointer;"><strong>🚀 Detalhes da Arquitetura SaaS</strong></summary>
   <br>
-  <blockquote style="font-style: italic; border-left: 4px solid #00BFFF; padding-left: 10px;">
-    Sistema SaaS robusto desenvolvido para múltiplas empresas, permitindo gestão completa de despesas, pagamentos, fornecedores e usuários com controle granular de permissões. Arquitetura MERN-like com segurança de nível industrial.
+  <blockquote style="margin: 0; padding-left: 15px; border-left: 3px solid #1e3c72;">
+    Sistema corporativo robusto focado em tesouraria e controladoria centralizada para múltiplas matrizes/filiais simultâneas. 
     <br><br>
-    <strong>Funcionalidades Principais:</strong>
+    <strong>Engenharia e Técnicas Aplicadas:</strong>
     <ul>
-      <li>✅ Gestão multi-empresa com isolamento de dados</li>
-      <li>✅ Sistema de permissões hierárquicas (Superuser, Manager, Financial, etc.)</li>
-      <li>✅ Autenticação JWT com controle de roles e perfis customizáveis</li>
-      <li>✅ API RESTful completa com 50+ endpoints</li>
-      <li>✅ Frontend responsivo com React e Tailwind CSS</li>
-      <li>✅ Relatórios avançados e dashboards analíticos</li>
-      <li>✅ Upload de arquivos e logs de auditoria</li>
-      <li>✅ Sistema de despesas recorrentes e parcelamento</li>
+      <li>Isolamento Multi-Tenant seguro com sharding lógico e row-level security.</li>
+      <li>Framework de Autorização escalável via decorators, JWT Tokens e regras de permissão em cache.</li>
+      <li>Modelagem de banco de dados relacional complexa via <strong>Prisma/Sequelize</strong> em PostgreSQL.</li>
+      <li>Consumo de API otimizado no front-end utilizando componentização server-side/client-side híbrida.</li>
     </ul>
-    <br>
-    <strong>Tecnologias Utilizadas:</strong> Node.js, Express, Sequelize ORM, PostgreSQL, React, Axios, Tailwind CSS, JWT, Helmet, Rate Limiting, CORS, Jest para testes.
-    <br><br>
-    <strong>Impacto:</strong> Solução escalável para controladoria financeira, reduzindo tempo de gestão em 70% e aumentando a precisão fiscal.
+    <strong>Stack Tech:</strong> TypeScript, Node.js, Express/Nest, PostgreSQL, React, Tailwind CSS, Jest.
   </blockquote>
 </details>
 
-### 🤖 Genesis AI: Engenharia de NPCs com "Vida" Própria
+
+### 🧠 [Sistemas Autônomos] Genesis AI - Engenharia Core de NPCs
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  <img src="https://img.shields.io/badge/Reinforcement_Learning-FF6B35?style=for-the-badge&logo=python&logoColor=white" alt="RL"/>
-  <img src="https://img.shields.io/badge/Behavior_Trees-4CAF50?style=for-the-badge&logo=python&logoColor=white" alt="BT"/>
+  <img src="https://img.shields.io/badge/RL-FF6B35?style=for-the-badge" alt="RL"/>
+  <img src="https://img.shields.io/badge/Behavior_Trees-4CAF50?style=for-the-badge" alt="BT"/>
 </div>
 
 <br>
 
-<details style="border: 2px solid #FF6B35; border-radius: 10px; padding: 15px; margin-bottom: 20px; background: linear-gradient(135deg, #667eea, #764ba2); color: white;">
-  <summary style="font-size: 18px; font-weight: bold; cursor: pointer;"><strong>🧠 Sistema Cognitivo Híbrido de 7 Camadas para NPCs Inteligentes</strong></summary>
+<details style="border: 1px solid #FF6B35; border-radius: 6px; padding: 15px; margin-bottom: 20px;">
+  <summary style="font-size: 16px; font-weight: bold; cursor: pointer;"><strong>🤖 Arquitetura do Sistema Cognitivo Híbrido</strong></summary>
   <br>
-  <blockquote style="font-style: italic; border-left: 4px solid #FF6B35; padding-left: 10px;">
-    Arquitetura pioneira de IA híbrida implementada em Python para criação de NPCs verdadeiramente vivos em mundos virtuais e jogos de RPG. Sistema integrado ao Discord via webhooks, utilizando Google Gemini API para geração de respostas contextuais.
+  <blockquote style="margin: 0; padding-left: 15px; border-left: 3px solid #FF6B35;">
+    Projeto de pesquisa e implementação orientada a comportamento para dar autonomia a NPCs em simulações digitais, com Webhooks em Python atuando de ponte.
     <br><br>
-    <strong>As 7 Camadas Cognitivas:</strong>
+    <strong>Aprofundamento Algorítmico (Camadas):</strong>
     <ol>
-      <li><strong>GOAP (Goal-Oriented Action Planning):</strong> Planejamento estratégico de longo prazo com algoritmo A*</li>
-      <li><strong>Behavior Trees:</strong> Execução tática de comportamentos modulares</li>
-      <li><strong>Sistema Híbrido:</strong> Orquestração entre planejamento e execução</li>
-      <li><strong>Reinforcement Learning:</strong> Aprendizado adaptativo baseado em interações</li>
-      <li><strong>Activation Engineering:</strong> Controle de personalidade via vetores Big Five</li>
-      <li><strong>Sistema Emocional OCC:</strong> 22 estados emocionais baseados em psicologia</li>
-      <li><strong>Memória Persistente:</strong> Contexto multi-camadas com histórico emocional</li>
+      <li><strong>GOAP Engine:</strong> Busca A* heurística resolvendo estados mundiais via grafos focados em metas.</li>
+      <li><strong>Behavior Trees:</strong> Execução robusta no nível inferior para pathfinding e manipulação de inventário em JSON.</li>
+      <li><strong>LLM Middleware:</strong> Integração com Gemini API via construção encadeada (Chain of Thought), injeções estáticas de contexto (Activation Vectors).</li>
+      <li><strong>Cognição Emocional:</strong> Dicionário OCC em backend transmutando strings de texto interpretadas em score +2/-2 de alteração de humor.</li>
     </ol>
-    <br>
-    <strong>Técnicas de Prompt Engineering Avançadas:</strong>
-    <ul>
-      <li>✅ Chain of Thought (CoT) para raciocínio passo-a-passo</li>
-      <li>✅ Tree of Thought (ToT) para exploração múltipla</li>
-      <li>✅ Step-Back Prompting para abstração contextual</li>
-      <li>✅ Self-Consistency para respostas consistentes</li>
-      <li>✅ React (Reasoning + Acting) para interatividade</li>
-      <li>✅ Construção modular de prompts com 12+ camadas contextuais</li>
-    </ul>
-    <br>
-    <strong>Funcionalidades Inovadoras:</strong> NPCs com memória individual, emoções dinâmicas, aprendizado por reforço, planejamento estratégico, detecção de presentes, análise emocional via Gemini, persistência de estados, integração Discord.
-    <br><br>
-    <strong>Impacto:</strong> NPCs que evoluem, aprendem e interagem de forma imersiva, revolucionando experiências de RPG virtuais.
   </blockquote>
 </details>
 
 ---
 
-## 🎓 FORMAÇÃO E CERTIFICAÇÕES: Conhecimento Técnico
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Engenharia_de_Prompts_Avançada-FF6B35?style=for-the-badge&logo=ai&logoColor=white" alt="Prompt Engineering"/>
-  <img src="https://img.shields.io/badge/Arquiteturas_Híbridas_de_IA-4CAF50?style=for-the-badge&logo=python&logoColor=white" alt="Hybrid AI"/>
-  <img src="https://img.shields.io/badge/Full_Stack_Development-00BFFF?style=for-the-badge&logo=react&logoColor=white" alt="Full-Stack"/>
-  <img src="https://img.shields.io/badge/SaaS_Platforms-9C27B0?style=for-the-badge&logo=cloud&logoColor=white" alt="SaaS"/>
-</div>
-
-<br>
-
-### 📚 Especializações Técnicas
-
-- **🧠 Engenharia de Prompts**: Mestre em construção de prompts contextuais multi-camadas, com expertise em Chain of Thought, Tree of Thought, Step-Back Prompting e Self-Consistency.
-- **🤖 Sistemas Cognitivos**: Especialista em arquiteturas híbridas de IA, integrando GOAP, Behavior Trees, Reinforcement Learning e modelos emocionais OCC.
-- **💻 Desenvolvimento Full-Stack**: Proficiente em Node.js, React, Python, PostgreSQL, com foco em segurança, escalabilidade e UX.
-- **☁️ Soluções SaaS**: Experiência em plataformas multi-tenant com controle granular de permissões e autenticação JWT.
-
-### 📊 SKILLS: Gráficos de Proficiência
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fiddlelandia&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages"/>
-</div>
-
-<div align="center" style="max-width: 600px; margin: 20px auto;">
-  <h4>Proficiencia em Tecnologias</h4>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,postgresql,docker,git" alt="Skills Icons" style="width: 100%; max-width: 600px;"/>
-</div>
-
-### 🛠️ ARSENAL TÉCNICO: Tecnologias & Ferramentas
+## 🛠️ ARSENAL E STACK TECNOLÓGICA
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="50%">
-        <h3>💻 Desenvolvimento Full-Stack</h3>
-        <img src="https://skillicons.dev/icons?i=nodejs,react,python,postgresql,mongodb,express,sequelize,tailwind,git,docker" alt="Full-Stack Skills"/>
+        <h3>💼 Backend & Cloud</h3>
+        <br>
+        <img src="https://skillicons.dev/icons?i=py,ts,nodejs,express,nestjs,postgresql,mongodb,docker,linux,aws" alt="Backend Stack"/>
       </td>
       <td align="center" width="50%">
-        <h3>🤖 Inteligência Artificial</h3>
-        <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,scikit-learn" alt="AI Skills"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <h3>🔧 Ferramentas & DevOps</h3>
-        <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,jest" alt="Tools"/>
-      </td>
-      <td align="center">
-        <h3>🌐 Web & APIs</h3>
-        <img src="https://skillicons.dev/icons?i=html,css,js,typescript,graphql,rest,webhooks" alt="Web Skills"/>
+        <h3>🌐 Frontend & Design</h3>
+        <br>
+        <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,tailwind,vite,figma" alt="Frontend Stack"/>
       </td>
     </tr>
   </table>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fiddlelandia&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages"/>
 </div>
 
 ---
 
-## 📰 ATIVIDADE RECENTE: Últimas Atualizações
+## 🎯 FOCO DE ESTUDO & DEVs ATUAIS
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" valign="top" align="center">
-        <h4>📝 Último Artigo no Blog</h4>
-        <p>"Engenharia de Prompts: Construindo Contextos Cognitivos para IA"</p>
-        <a href="#" style="color: #00BFFF;">Ler mais →</a>
-      </td>
-      <td width="50%" valign="top" align="center">
-        <h4>🎵 Ouvindo no Spotify</h4>
-        <p>Conectando ao Spotify...</p>
-        <iframe src="https://open.spotify.com/embed/track/4iV5W9uYEdYUVa79Axb7Rh" width="300" height="80" frameborder="0" allowtransparency="true" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🎯 OBJETIVOS ATUAIS: Projetos em Andamento
-
-- 🔄 **Aprimorando Genesis AI**: Implementando novos modos de raciocínio e integração com LLMs mais avançados
-- 🚀 **Expandindo SaaS Financeiro**: Adicionando notificações em tempo real e relatórios com IA
-- 📚 **Conteúdo Educacional**: Criando guias sobre engenharia de prompts e arquiteturas híbridas de IA
-- 🔬 **Pesquisa**: Explorando aplicações de IA em jogos e simulações sociais
-
----
-
-## 📈 HISTÓRICO DE CONTRIBUIÇÕES: Evolução no GitHub
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Fiddlelandia/Fiddlelandia/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation"/>
-</div>
-
----
-
-## 📬 // CONTATO: Vamos Conversar?
-
-<div align="center">
-  <a href="mailto:nicholasgildossantos@gmail.com">
-    <img src="https://img.shields.io/badge/Envie_um_Email-FF5722?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/Fiddlelandia">
-    <img src="https://img.shields.io/badge/Conecte_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/Fiddlelandia" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://instagram.com/Fiddlelandia" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://discord.gg/yourdiscord" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-</div>
+- 🟢 **Refinamento de Modelos LLMs**: Testes de latência no middleware em python para Agents autônomos baseados em grafos.
+- 🟢 **PostgreSQL Avançado**: Modelagem de views materializadas em grandes volumes para indexação no Módulo Report do AvvA Connect.
+- 🟢 **Integração de APIs Assíncronas**: Implementando event-driven architecture e filas (Pusher/Redis) em soluções nativas multi-tenant.
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://raw.githubusercontent.com/Fiddlelandia/Fiddlelandia/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Code Activity Snake"/>
 </div>
-
----
-
-**Última Atualização:** Dezembro 2024 | **Versão do Perfil:** 2.0
