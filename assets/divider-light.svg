@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="34" viewBox="0 0 1200 34" role="img" aria-label="Separador animado">
+<defs><linearGradient id="d" x1="0" x2="1"><stop stop-color="#24D6E8"/><stop offset=".5" stop-color="#9A6BFF"/><stop offset="1" stop-color="#2FE6A1"/></linearGradient><filter id="g"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<path d="M20 17H1180" stroke="#C6DFF5" stroke-width="2"/>
+<path d="M20 17H300" stroke="url(#d)" stroke-width="3" stroke-linecap="round" filter="url(#g)"><animate attributeName="d" values="M20 17H300;M450 17H730;M900 17H1180;M20 17H300" dur="5s" repeatCount="indefinite"/></path>
+<circle cx="20" cy="17" r="4" fill="#24D6E8" filter="url(#g)"><animate attributeName="cx" values="20;1180;20" dur="5s" repeatCount="indefinite"/></circle>
+</svg>

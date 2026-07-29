@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="450" viewBox="0 0 1200 450" role="img" aria-label="Ecossistema AVVA Connect">
+<defs>
+ <linearGradient id="ecoBg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111F"/><stop offset="1" stop-color="#0B1729"/></linearGradient>
+ <linearGradient id="ecoAccent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#24D6E8"/><stop offset=".5" stop-color="#9A6BFF"/><stop offset="1" stop-color="#2FE6A1"/></linearGradient>
+ <filter id="ecoGlow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <filter id="ecoShadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#000000" flood-opacity=".22"/></filter>
+</defs>
+<rect width="1200" height="450" rx="24" fill="url(#ecoBg)"/>
+<text x="54" y="48" font-family="ui-monospace,Consolas,monospace" font-size="12" letter-spacing="3" fill="#7E9CB8">AVVA.ECOSYSTEM / LIVE ARCHITECTURE</text>
+<path d="M54 63H1146" stroke="#214769"/>
+
+<g transform="translate(600 244)">
+ <ellipse rx="390" ry="142" fill="none" stroke="#214769" stroke-dasharray="4 10"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="50s" repeatCount="indefinite"/></ellipse>
+ <ellipse rx="280" ry="100" fill="none" stroke="url(#ecoAccent)" stroke-dasharray="42 18" opacity=".55"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="28s" repeatCount="indefinite"/></ellipse>
+ <circle r="100" fill="none" stroke="#24D6E8" opacity=".18"><animate attributeName="r" values="88;118;88" dur="4s" repeatCount="indefinite"/><animate attributeName="opacity" values=".28;.02;.28" dur="4s" repeatCount="indefinite"/></circle>
+ <g>
+  <rect x="-128" y="-65" width="256" height="130" rx="24" fill="#0B1729" stroke="url(#ecoAccent)" stroke-width="2"/>
+  <text y="-16" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="26" fill="url(#ecoAccent)">AVVA CONNECT</text>
+  <text y="15" text-anchor="middle" font-family="ui-monospace,Consolas,monospace" font-size="12" fill="#7E9CB8">BUSINESS OPERATING SYSTEM</text>
+  <circle cx="-60" cy="42" r="4" fill="#2FE6A1" filter="url(#ecoGlow)"><animate attributeName="opacity" values="1;.25;1" dur="1.2s" repeatCount="indefinite"/></circle>
+  <text x="-48" y="47" font-family="ui-monospace,Consolas,monospace" font-size="11" fill="#2FE6A1">ONLINE / EVOLVING</text>
+ </g>
+</g>
+
+<!-- Node cards -->
+<g font-family="ui-monospace,Consolas,monospace">
+ <g transform="translate(90 104)"><animateTransform attributeName="transform" type="translate" values="90 104;90 94;90 104" dur="4s" repeatCount="indefinite"/>
+  <rect width="230" height="88" rx="16" fill="#0B1729" stroke="#214769"/><circle cx="28" cy="28" r="9" fill="#24D6E8"/><text x="48" y="32" font-size="15" font-weight="700" fill="#EEF8FF">ERP &amp; Gestão</text><text x="22" y="61" font-size="11" fill="#7E9CB8">financeiro • cadastros • operação</text>
+ </g>
+ <g transform="translate(880 94)"><animateTransform attributeName="transform" type="translate" values="880 94;880 105;880 94" dur="4.6s" repeatCount="indefinite"/>
+  <rect width="230" height="88" rx="16" fill="#0B1729" stroke="#214769"/><circle cx="28" cy="28" r="9" fill="#9A6BFF"/><text x="48" y="32" font-size="15" font-weight="700" fill="#EEF8FF">IA Aplicada</text><text x="22" y="61" font-size="11" fill="#7E9CB8">agentes • modelos • decisões</text>
+ </g>
+ <g transform="translate(78 310)"><animateTransform attributeName="transform" type="translate" values="78 310;88 310;78 310" dur="5s" repeatCount="indefinite"/>
+  <rect width="240" height="88" rx="16" fill="#0B1729" stroke="#214769"/><circle cx="28" cy="28" r="9" fill="#2FE6A1"/><text x="48" y="32" font-size="15" font-weight="700" fill="#EEF8FF">Automação</text><text x="22" y="61" font-size="11" fill="#7E9CB8">workflows • integrações • escala</text>
+ </g>
+ <g transform="translate(882 304)"><animateTransform attributeName="transform" type="translate" values="882 304;872 304;882 304" dur="5.4s" repeatCount="indefinite"/>
+  <rect width="240" height="88" rx="16" fill="#0B1729" stroke="#214769"/><circle cx="28" cy="28" r="9" fill="#419BFF"/><text x="48" y="32" font-size="15" font-weight="700" fill="#EEF8FF">Infraestrutura</text><text x="22" y="61" font-size="11" fill="#7E9CB8">VPS • Docker • observabilidade</text>
+ </g>
+ <g transform="translate(480 82)"><animateTransform attributeName="transform" type="translate" values="480 82;480 72;480 82" dur="3.8s" repeatCount="indefinite"/>
+  <rect width="240" height="74" rx="16" fill="#0B1729" stroke="#214769"/><circle cx="28" cy="25" r="8" fill="#FF5FA2"/><text x="47" y="29" font-size="14" font-weight="700" fill="#EEF8FF">Produto &amp; UX</text><text x="22" y="52" font-size="10.5" fill="#7E9CB8">clareza • fluxo • experiência</text>
+ </g>
+</g>
+
+<!-- Connections -->
+<g fill="none" stroke="url(#ecoAccent)" stroke-width="2" stroke-dasharray="5 8" opacity=".48">
+ <path d="M320 148C410 160 440 190 478 217"><animate attributeName="stroke-dashoffset" values="26;0" dur="2s" repeatCount="indefinite"/></path>
+ <path d="M880 138C790 150 758 186 722 217"><animate attributeName="stroke-dashoffset" values="26;0" dur="2.3s" repeatCount="indefinite"/></path>
+ <path d="M318 350C415 335 445 300 483 275"><animate attributeName="stroke-dashoffset" values="26;0" dur="2.6s" repeatCount="indefinite"/></path>
+ <path d="M882 348C790 333 758 300 717 275"><animate attributeName="stroke-dashoffset" values="26;0" dur="2.9s" repeatCount="indefinite"/></path>
+</g>
+</svg>
