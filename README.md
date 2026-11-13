@@ -18,7 +18,7 @@
 <br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=24D6E8&center=true&vCenter=true&repeat=true&width=900&height=55&lines=Full-Stack+Engineer+%E2%80%A2+AI+Systems+Architect;SaaS+%E2%80%A2+Automa%C3%A7%C3%A3o+%E2%80%A2+Sistemas+Cognitivos;Transformando+processos+complexos+em+experi%C3%AAncias+claras;Shipping+products.+Improving+systems.+Creating+value." alt="Texto animado apresentando Nicholas Gil">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=24D6E8&center=true&vCenter=true&repeat=true&width=1000&height=90&lines=Full-Stack+Engineer+%E2%80%A2+AI+Systems+Architect;AVVA+Connect+%E2%80%A2+Enterprise+SaaS+%E2%80%A2+Multi-Tenant;Autonomous+Agents+%E2%80%A2+LLM+Gateways+%E2%80%A2+Multimodal+OCR;Designing+intelligent+systems+and+resilient+architecture." alt="Texto animado apresentando Nicholas Gil">
 </a>
 
 <br>
@@ -41,20 +41,20 @@
 
 ```yaml
 name: Nicholas Gil
+handle: Fiddlelandia
 role: "Full-Stack Engineer & AI Systems Architect"
-company: AVVA Connect
+ecosystem: AVVA Connect
 location: Brasil
-mission: Criar sistemas inteligentes, claros e escaláveis para empresas reais.
+mission: "Engenharia de produtos SaaS de alta densidade, sistemas cognitivos e infraestrutura resiliente."
 current_focus:
-  - ERP e gestão empresarial
-  - automações operacionais
-  - infraestrutura em VPS e Docker
-  - sistemas cognitivos e IA aplicada
+  - "Enterprise Multi-Tenant SaaS (Next.js 16 + NestJS 11 + Prisma 6)"
+  - "AI Cognitive Systems & Autonomous Multi-Agent Loops"
+  - "Production Infrastructure (VPS Contabo, Dokploy, Traefik, PostgreSQL, Redis, MinIO S3)"
+  - "Intelligent OCR Pipelines (Vision, Tesseract, Multimodal AI)"
 principles:
-  - produto antes de complexidade
-  - clareza antes de volume
-  - automação antes de trabalho repetitivo
-  - evolução contínua
+  - "Produto e clareza antes de complexidade desnecessária"
+  - "Automação orientada a valor e eliminação de fricção operacional"
+  - "Arquitetura desacoplada e observável de ponta a ponta"
 ```
 
 <table>
@@ -63,14 +63,14 @@ principles:
 
 ### O que estou construindo
 
-O **AVVA Connect** é um ecossistema de gestão empresarial orientado a produtividade, visão financeira e automação. Meu trabalho conecta produto, software, infraestrutura e inteligência artificial para reduzir atrito operacional.
+O **AVVA Connect** é um ecossistema de gestão empresarial de alta densidade com arquitetura multi-tenant, foco em eficiência financeira, recepção médica, contratos e automação cognitiva. Conecto engenharia de produto, pipelines de inteligência artificial e infraestrutura autônoma para eliminar atrito operacional.
 
-- experiências SaaS mais claras;
-- fluxos financeiros e administrativos;
-- integrações e automações;
-- ferramentas internas assistidas por IA;
-- sistemas de IA com memória e raciocínio híbrido;
-- infraestrutura simples de operar e evoluir.
+- Experiências SaaS empresariais com Next.js 16 e NestJS 11;
+- Arquitetura multi-tenant isolada com Prisma 6 e PostgreSQL 16;
+- Processamento assíncrono e mensageria com Redis e BullMQ;
+- Pipelines de OCR inteligente e extração documental via visão computacional;
+- Sistemas de IA com memória persistente e orquestração de subagentes;
+- Infraestrutura resiliente operando em VPS 24/7 com Dokploy e Traefik.
 
 </td>
 <td width="50%" valign="top">
@@ -111,78 +111,129 @@ resultado mensurável
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,python,postgres,mongodb,redis,docker,aws,nginx,linux,git,github&perline=8" alt="Tecnologias utilizadas">
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,python,fastapi,postgres,supabase,redis,docker,linux,git,github,tailwind,prisma&perline=9" alt="Tecnologias utilizadas">
 
 <br><br>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0B1729?style=flat-square&logo=typescript&logoColor=24D6E8)
-![React](https://img.shields.io/badge/React-0B1729?style=flat-square&logo=react&logoColor=24D6E8)
-![Next.js](https://img.shields.io/badge/Next.js-0B1729?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
-![Node.js](https://img.shields.io/badge/Node.js-0B1729?style=flat-square&logo=nodedotjs&logoColor=2FE6A1)
-![Python](https://img.shields.io/badge/Python-0B1729?style=flat-square&logo=python&logoColor=419BFF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1729?style=flat-square&logo=postgresql&logoColor=9A6BFF)
-![Docker](https://img.shields.io/badge/Docker-0B1729?style=flat-square&logo=docker&logoColor=24D6E8)
-![Linux](https://img.shields.io/badge/Linux-0B1729?style=flat-square&logo=linux&logoColor=FFFFFF)
-![OpenAI](https://img.shields.io/badge/IA_APLICADA-0B1729?style=flat-square&logo=openai&logoColor=2FE6A1)
+**Frontend**  
+![TypeScript](https://img.shields.io/badge/TypeScript-0B1729?style=flat-square&logo=typescript&logoColor=24D6E8) ![React](https://img.shields.io/badge/React-0B1729?style=flat-square&logo=react&logoColor=24D6E8) ![Next.js 16](https://img.shields.io/badge/Next.js_16-0B1729?style=flat-square&logo=nextdotjs&logoColor=FFFFFF) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0B1729?style=flat-square&logo=tailwindcss&logoColor=24D6E8)
+
+**Backend & Dados**  
+![Node.js](https://img.shields.io/badge/Node.js-0B1729?style=flat-square&logo=nodedotjs&logoColor=2FE6A1) ![NestJS 11](https://img.shields.io/badge/NestJS_11-0B1729?style=flat-square&logo=nestjs&logoColor=E0234E) ![Python](https://img.shields.io/badge/Python-0B1729?style=flat-square&logo=python&logoColor=419BFF) ![FastAPI](https://img.shields.io/badge/FastAPI-0B1729?style=flat-square&logo=fastapi&logoColor=2FE6A1) ![Prisma ORM](https://img.shields.io/badge/Prisma_ORM-0B1729?style=flat-square&logo=prisma&logoColor=FFFFFF) ![PostgreSQL 16](https://img.shields.io/badge/PostgreSQL_16-0B1729?style=flat-square&logo=postgresql&logoColor=9A6BFF) ![Redis 7](https://img.shields.io/badge/Redis_7-0B1729?style=flat-square&logo=redis&logoColor=FF4438) ![MinIO S3](https://img.shields.io/badge/MinIO_S3-0B1729?style=flat-square&logo=minio&logoColor=FFFFFF)
+
+**DevOps & Infra**  
+![Docker](https://img.shields.io/badge/Docker-0B1729?style=flat-square&logo=docker&logoColor=24D6E8) ![Traefik](https://img.shields.io/badge/Traefik-0B1729?style=flat-square&logo=traefikproxy&logoColor=24D6E8) ![Linux VPS](https://img.shields.io/badge/Linux_VPS-0B1729?style=flat-square&logo=linux&logoColor=FFFFFF) ![Dokploy](https://img.shields.io/badge/Dokploy-0B1729?style=flat-square&logo=docker&logoColor=2FE6A1) ![Git](https://img.shields.io/badge/Git-0B1729?style=flat-square&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-0B1729?style=flat-square&logo=github&logoColor=FFFFFF)
 
 </div>
 
-## `> projects.list --featured`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
+  <img width="100%" alt="Separador" src="./assets/divider-light.svg">
+</picture>
+
+## `> ai.expertise & applied intelligence`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ AVVA Connect
+### ◈ Modelos, Orquestração & Gateways
 
-**ERP SaaS para gestão empresarial**
+- **Modelos & Provedores de Fronteira:** Domínio prático e integração profunda de modelos de ponta: **Claude** (Anthropic), **OpenAI** (GPT-4o / Reasoning), **Google Gemini** (Multimodal), **DeepSeek** (V3 / R1) e acesso unificado via **OpenRouter**.
+- **Sistemas Multiagente & Orquestração:** Arquitetura de agentes autônomos de alta precisão com o ecossistema **EUREKA / Swarms**, orquestração de subagentes com papéis bem definidos, divisão hierárquica de tarefas, arenas de deliberação crítica e loops de execução e verificação autônoma.
+- **Roteamento Inteligente & Gateways (OmniRoute):** Gateways de inferência com balanceamento de carga ativo, failover automático e fallback resiliente multi-provedor, controle de taxa (rate limiting), monitoramento de cotas e estratégias de **prompt caching** para redução drástica de latência e custos.
 
-Produto central do ecossistema: financeiro, operação, cadastros, visibilidade e automação em uma experiência integrada.
-
-`SaaS` `ERP` `Finanças` `Automação` `Produto`
-
-[🌐 Acessar o site](https://www.avvaconnect.com.br)
+`Claude` `OpenAI` `Gemini` `DeepSeek` `OpenRouter` `Multi-Agent Swarms` `OmniRoute`
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ AI & Automation Lab
+### ◈ Memória, Visão & Structured Tooling
 
-**IA aplicada a fluxos reais**
+- **Memória Persistente & Contexto (MCP):** Arquiteturas baseadas em **Model Context Protocol (MCP)** e **Serena MCP**, garantindo memória de projeto simbólica persistente entre sessões, injeção contextual dinâmica e vector retrieval para preservação contínua de decisões arquiteturais.
+- **Visão Computacional & OCR Multimodal:** Pipelines de extração documental inteligente com microserviços em **FastAPI**, orquestrando **Google Cloud Vision + Tesseract + Gemini Multimodal** para conversão de laudos, recibos e guias em dados tabulares estruturados.
+- **Function Calling & Structured Outputs:** Tool calling rigoroso em tempo de execução, validação de saídas estruturadas com esquemas estritos (**Zod / JSON Schema**) e agentes autônomos operando com segurança em ambientes de código.
 
-Experimentos e soluções envolvendo agentes, roteamento de modelos, geração de conteúdo, análise e automações operacionais.
-
-`OpenRouter` `OpenAI` `Gemini` `Agentes` `Workflows`
-
-[⌁ Ver no GitHub](https://github.com/Fiddlelandia?tab=repositories)
+`MCP` `Serena MCP` `Google Vision` `Tesseract` `FastAPI` `Structured Outputs (Zod)`
 
 </td>
 </tr>
+</table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
+  <img width="100%" alt="Separador" src="./assets/divider-light.svg">
+</picture>
+
+## `> infrastructure & engineering in production`
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ Infrastructure Stack
+### ◈ Engenharia Full-Stack Resiliente
 
-**Ambiente de desenvolvimento e operação em VPS**
+- **Frontend de Alto Desempenho:** Aplicações ricas e responsivas desenvolvidas com **Next.js 16** (App Router), **React 19**, **TypeScript** estrito e estilização com **Tailwind CSS**.
+- **Serviços Backend & APIs:** Arquitetura modular corporativa em **NestJS 11** (Node.js) e microserviços de alto throughput com **Python** e **FastAPI**.
+- **Persistência & Dados:** Mapeamento relacional e tipagem fim-a-fim com **Prisma ORM**, modelagem otimizada em **PostgreSQL 16** e cache/mensageria em memória via **Redis 7** com **BullMQ**.
 
-Docker, proxy reverso, serviços internos, observabilidade e organização de ferramentas para desenvolvimento assistido por IA.
-
-`Docker` `Linux` `Nginx` `VPS` `DevOps`
-
-[⌁ Explorar projetos](https://github.com/Fiddlelandia?tab=repositories)
+`Next.js 16` `React` `TypeScript` `Tailwind CSS` `NestJS 11` `Python` `FastAPI` `Prisma ORM`
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ Product Experience
+### ◈ Infraestrutura Self-Hosted 24/7
 
-**Interfaces orientadas a clareza e conversão**
+- **Orquestração & Computação:** Servidor dedicado Linux VPS (Contabo NVMe) com deploys contínuos, isolamento em containers **Docker** e gestão via **Dokploy**.
+- **Roteamento & TLS:** **Traefik** como edge router e ingress com emissão automatizada de certificados TLS (Let's Encrypt), suporte a HTTP/3 e políticas de rate limiting.
+- **Armazenamento S3:** Cluster **MinIO S3** autohospedado e compatível para gestão segura e criptografada de laudos, exames e documentos corporativos.
+- **Comunicação Confiável:** Servidor de e-mail próprio com DKIM, SPF e DMARC estritos para transações e notificações de alta entregabilidade.
 
-Landing pages, sistemas internos e experiências de produto com foco em hierarquia visual, movimento e redução de fricção.
+`Linux VPS` `Dokploy` `Docker` `Traefik` `PostgreSQL 16` `Redis 7` `MinIO S3`
 
-`UX/UI` `React` `Motion` `Design Systems` `Figma`
+</td>
+</tr>
+</table>
 
-[✦ Conhecer o AVVA](https://www.avvaconnect.com.br)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
+  <img width="100%" alt="Separador" src="./assets/divider-light.svg">
+</picture>
+
+## `> flagship.project --avva-connect`
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### ◈ AVVA Connect
+**Enterprise Multi-Tenant SaaS & Medical ERP • Carro-Chefe de Engenharia**
+
+O **AVVA Connect** é um ecossistema ERP SaaS corporativo e multi-tenant desenhado do zero para atender operações de alta densidade, unificando gestão administrativa, processos clínicos especializados e automação inteligente com máxima segurança de dados.
+
+#### ⚙️ Destaques de Arquitetura & Módulos Centrais
+- **Isolamento Multi-Tenant Rigoroso:** Separação estrita de dados a nível de schema e banco com Prisma ORM e PostgreSQL 16, garantindo privacidade, integridade e conformidade absoluta entre organizações.
+- **Gestão Financeira & CRM Corporativo:** Faturamento automatizado, controle de fluxo de caixa, conciliação em tempo real e CRM completo para gestão de ciclo de vida de clientes e pacientes.
+- **Recepção Médica & Prontuário Eletrônico:** Agendamentos inteligentes, prontuários clínicos parametrizáveis, controle de atendimentos em tempo real e emissão ágil de relatórios.
+- **Contratos Dinâmicos & Documentação:** Geração automatizada de minutas e contratos com validação jurídica, assinaturas digitais e armazenamento criptografado no MinIO S3.
+- **OCR Multimodal & Extração Inteligente:** Pipeline de IA integrado (Google Cloud Vision + Tesseract + Gemini) processando laudos, recibos e guias com conversão estruturada direta para o banco de dados.
+- **Processamento Assíncrono & Mensageria:** Filas assíncronas com Redis 7 e BullMQ para envio de notificações, relatórios pesados e processamento em background sem bloqueio de I/O.
+
+#### 🛠️ Stack Tecnológica em Produção
+`Next.js 16 (App Router)` `React` `TypeScript` `Tailwind CSS` `NestJS 11` `Prisma ORM` `PostgreSQL 16` `Redis 7` `BullMQ` `MinIO S3` `Docker` `Traefik` `Dokploy` `Linux VPS`
+
+<br>
+
+<div align="center">
+
+<a href="https://www.avvaconnect.com.br"><img src="https://img.shields.io/badge/AVVA_Connect-Acessar_Plataforma-24D6E8?style=for-the-badge&logo=googlechrome&logoColor=06121F" alt="Acessar o site do AVVA Connect"></a>
+&nbsp;&nbsp;
+<a href="https://github.com/Fiddlelandia"><img src="https://img.shields.io/badge/GitHub-Ver_Repositórios-9A6BFF?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositórios no GitHub"></a>
+
+</div>
 
 </td>
 </tr>
